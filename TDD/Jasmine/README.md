@@ -114,4 +114,4 @@ Any matcher can evaluate to *a negative assertion* by chaining the call to expec
 + [Jasmine introduction](http://jasmine.github.io/2.2/introduction.html)
 
 ## Slides
-You can find the slides [here]().
+You can find the slides [here](http://www.slideshare.net/MireiaSangalo/jasmine-behaviourdriven-development).

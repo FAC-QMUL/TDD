@@ -62,7 +62,7 @@ If new code does not rapidly satisfy a new test, or other tests fail unexpectedl
 
 
 ## Slides
-You can find the slides [here]().
+You can find the slides [here](http://www.slideshare.net/MireiaSangalo/test-driven-development-63221704).
 
 # Next...
 ## 2. Introduction to Jasmine
