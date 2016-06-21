@@ -69,14 +69,14 @@ Next, declare a new variable inside testQmul called expected and assign it a val
 >>>>>>>>>>>>> Here https://repl.it/C4IE/1
 
 
-# ...then update foo so that the test passes
+# ...then update qmul so that the test passes
 
 In the last exercise we updated our test to expect a value of 1. The actual value returned by qmul() is "undefined". When we passed these values to "areEqual" the result was false.
 
 So, now all we have to do is update qmul to make the test pass. How do we do that?
 
 Instructions
-Update the foo function so that it returns a value that will make the test pass.
+Update the qmul function so that it returns a value that will make the test pass.
 
 >>>>>>>>>>>> Here https://repl.it/C4IK
 
