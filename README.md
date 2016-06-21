@@ -21,4 +21,5 @@ During this five day course you will get and introduction to GitHub and the comm
 ## Tuesday  
 - **10:00 - 13:00** [Introduction to JavaScript](https://docs.google.com/presentation/d/1NNVIEdNtfRocjIZ1fQC6fsCmHrUXeQGZow6HldzEzT8/edit#slide=id.g1461ece9d0_1_41) 
 - **13:00 - 14:00 Lunch**  
-- **14:00 - 17:00** [Introduction to TDD workshop](https://github.com/FAC-QMUL/TDD/blob/master/introduction-tdd-workshop.md)
+- **14:00 - 15:00** [TDD Talk](https://github.com/FAC-QMUL/TDD/tree/master/TDD/TDD)
+- **15:00 - 17:00** [Introduction to TDD workshop](https://github.com/FAC-QMUL/TDD/blob/master/introduction-tdd-workshop.md)
