@@ -16,3 +16,9 @@ During this five day course you will get and introduction to GitHub and the comm
 - **13:00 - 14:00 Lunch**  
 - **14:00 - 16:30** [Introduction to HTML, CSS & GitHub Pages](https://docs.google.com/presentation/d/1ktT9JyoyMVY7Q5rCRlKyXqRjFb5f-w5R-nLaIuW0ZgU/edit?usp=sharing) 
 - **16:30 - 17:00** [Upload to GH Pages](https://pages.github.com/)
+
+
+## Tuesday  
+- **10:00 - 13:00** [Introduction to JavaScript](https://docs.google.com/presentation/d/1NNVIEdNtfRocjIZ1fQC6fsCmHrUXeQGZow6HldzEzT8/edit#slide=id.g1461ece9d0_1_41) 
+- **13:00 - 14:00 Lunch**  
+- **14:00 - 17:00** [Introduction to TDD workshop](https://github.com/FAC-QMUL/TDD/blob/master/introduction-tdd-workshop.md)
