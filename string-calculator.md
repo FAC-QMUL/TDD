@@ -11,10 +11,10 @@
         * Test for empty string
         * Test for one number in the string (i.e. "1")
         * Test another number in the string (i.e. "2", then test for "5")
-        * Refactor your code so that you can put any number and then it will return it. (i.e. "1068")
+        * Refactor your code so that you can put any number and then it will return it. (i.e. "68")
         * Test for two numbers in the string (i.e. "1,2")
         * Test another number in the string (i.e. "2,3", then test for "15,9")
-        * Refactor your code so that you can put any two numbers and then it will return it. (i.e. "1068, 9843")
+        * Refactor your code so that you can put any two numbers and then it will return it. (i.e. "68, 43")
      * Remember to solve things as simply as possible so that you force yourself to write tests you did not think about.
      * Remember to refactor after each passing test.
 2. Allow the Add method to handle an unknown amount of numbers.
