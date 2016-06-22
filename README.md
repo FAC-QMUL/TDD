@@ -26,7 +26,7 @@ During this five day course you will get and introduction to GitHub and the comm
 
 
 ## Wednesday  
-- **10:00 - 10:30** [Recap TDD](https://docs.google.com/presentation/d/1NNVIEdNtfRocjIZ1fQC6fsCmHrUXeQGZow6HldzEzT8/edit#slide=id.g1461ece9d0_1_41) 
+- **10:00 - 10:30** [Recap TDD](https://github.com/FAC-QMUL/TDD/tree/master/TDD/TDD) 
 - **10:30 - 13:00** [Jasmine](http://www.slideshare.net/MireiaSangalo/jasmine-behaviourdriven-development)
 - **13:00 - 14:00 Lunch**  
 - **14:00 - 17:00** String calculator
