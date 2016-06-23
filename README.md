@@ -29,4 +29,14 @@ During this five day course you will get and introduction to GitHub and the comm
 - **10:00 - 10:30** [Recap TDD](https://github.com/FAC-QMUL/TDD/tree/master/TDD/TDD) 
 - **10:30 - 13:00** [Jasmine](http://www.slideshare.net/MireiaSangalo/jasmine-behaviourdriven-development)
 - **13:00 - 14:00 Lunch**  
-- **14:00 - 17:00** String calculator
+- **14:00 - 17:00** TDD Exercises
+
+
+## Thursday  
+- **10:00 - 10:30** [Recap TDD Exercises]
+- **10:30 - 13:00** [Morning Challenge](https://github.com/FAC-QMUL/TDD/blob/master/morning-challenge.md)
+- **13:00 - 14:00 Lunch**  
+- **14:00 - 17:00** [Stopwatch Project](https://github.com/FAC-QMUL/TDD/blob/master/project.md)
+
+## Friday 
+- **10:00 - 16:00** [Continue Stopwatch Project](https://github.com/FAC-QMUL/TDD/blob/master/project.md)
